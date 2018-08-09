@@ -6,3 +6,5 @@ function updateObjectWithKeyAndValue(object, key, value){
   return newObj;
   
 }
+
+updateObjectWithKeyAndValue();
